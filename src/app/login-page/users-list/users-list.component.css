@@ -1,0 +1,36 @@
+.user-list-container{
+    border: 5px solid black;
+    background-color: gold;
+    width: 40%;
+    margin: auto;
+    padding: 40px;
+}
+
+.login-user-button{
+    display: block;
+    width: 70%;
+    margin: auto;
+    height: 10%;
+    font-family: Open Sans;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+.boss{
+    background-color: aqua;
+    color: darkblue;
+}
+
+.bae{
+    background-color: pink;
+    color: darkred;
+}
+
+.separtor{
+    margin: 30px;
+}
+
+h1{
+    text-align: center;
+    text-decoration: wavy;
+}
